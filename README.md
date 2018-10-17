@@ -1,6 +1,7 @@
-# PlavoSidro.github.io
+# Apartmani Plavo Sidro
+
 www.plavosidro.eu
 
 Book your summer holiday in Croatia
 
-Google Maps: https://goo.gl/RZa4oz
+Check out on Google Maps: https://goo.gl/RZa4oz

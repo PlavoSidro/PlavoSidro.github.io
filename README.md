@@ -2,7 +2,7 @@
 
 www.plavosidro.eu
 
-in progress plavosidro.github.io
+in progress https://plavosidro.github.io
 
 Book your summer holiday in Croatia
 

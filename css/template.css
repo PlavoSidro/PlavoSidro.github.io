@@ -1,0 +1,538 @@
+/*  ========================================
+    px to em convertionrate 14 px = 1.000 em
+    ========================================  */
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #00BCD4;
+    font-size: 94.5%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    -webkit-font-smoothing: antialiased; /* safari fontcontrol */
+    -moz-osx-font-smoothing: grayscale; /* firefox fontcontrol */
+}
+
+a:focus {
+    outline: none; /* firefox ugly dotted links shit */
+}
+
+/*  ========================================
+                  navigation
+    ========================================  */
+/*  ====================================
+      dropdown color edit to bootstrap
+    ====================================  */
+
+.dropdown-menu {
+    background-color: #00BCD4;
+}
+
+.dropdown-menu > li > a {
+    color: #FFC107;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #B2EBF2;
+    background-color: transparent;
+}
+
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+    background-color: #B2EBF2;
+    color: #0097A7;
+}
+
+/*  ====================================
+          navbar edit to bootstrap
+    ====================================  */
+
+.navbar-default {
+    background-color: #0097A7;
+    border-color: #B2EBF2;
+}
+
+.navbar-header {
+    height: 8.5em;
+}
+
+.navbar-header a {
+    height: 4.25em;
+    padding: 0;
+    font-size: 2em;
+    letter-spacing: 0.063em;
+    margin: auto;
+    display: inline-block;
+}
+
+.logo h1 {
+    display: none;
+}
+
+.nav a {
+    font-weight: 400;
+}
+
+.navbar-header a.logo {
+    float: left;
+    margin: 0;
+    padding-left: 4.25em;
+    background: url("../img/plavosidro_logo.png") no-repeat left center !important;
+    border: 0;
+    background-size: 4.25em 4.25em !important;
+    color: #FFC107;
+}
+
+.navbar-header a.logo:hover {
+    color: #B2EBF2;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #FFC107;
+    background-color: #00BCD4;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFC107;
+    letter-spacing: 0.03em;
+    font-size: 1em;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #B2EBF2;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    color: #0097A7;
+    background-color: #B2EBF2;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #B2EBF2;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #B2EBF2;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #B2EBF2;
+}
+/*  ========================================
+    settings for section small, big & island
+    ========================================  */
+
+.bold-text {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.picture img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1em;
+}
+
+.picture-hidden img {
+    display: none;
+}
+
+.big-box .picture img {
+    margin-bottom: 0;
+}
+
+.big-text {
+    margin-bottom: 0.6em;
+}
+
+/*  ========================================
+                home section
+    ========================================  */
+
+.home-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: hidden; /* hidden scrollbar in firefox */
+    padding-top: 8.5em;
+    background: url("../backgrounds/sunset.JPG") no-repeat center;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+.home-section .container {
+    height: auto !important;
+}
+
+.home-section h1 {
+    font-size: 3em;
+}
+
+.home-section article {
+    font-size: 1.5em;
+}
+
+.home-section article {
+    padding: 0.4em;
+    margin-top: 0.4em;
+}
+
+.welcome-box {
+    max-width: 100%;
+    max-height: 100%;
+    color: #212121;
+    background-color: rgba(178, 235, 242, 0.8);
+}
+
+.welcome-box > p {
+    margin: 0.1em;
+    padding: 0.1em;
+}
+
+/*  ========================================
+            small apartment section
+    ========================================  */
+
+.small-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: hidden;
+    padding-top: 8.5em;
+    background: url("../backgrounds/horizon.jpg") no-repeat center;
+    background-size: cover;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #212121;
+}
+
+.small-section h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+.small-section .container {
+    height: auto !important;
+}
+
+.small-text {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 1.25em;
+    background-color: rgba(178, 235, 242, 0.7);
+    padding: 0.4em;
+}
+
+/*  ========================================
+             big apartment section
+    ========================================  */
+
+.big-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: hidden;
+    padding-top: 8.5em;
+    background: url("../backgrounds/horizon.jpg") no-repeat center;
+    background-size: cover;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #212121;
+}
+
+.big-section h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+.big-section .container {
+    height: auto !important;
+}
+
+.big-text {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 1.25em;
+    background-color: rgba(178, 235, 242, 0.7);
+    padding: 0.4em;
+}
+
+/*  ========================================
+                island section
+    ========================================  */
+
+.island-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: hidden;
+    padding-top: 8.5em;
+    background: url("../backgrounds/otokvirbackgroundbnw2blur.jpg") no-repeat center;
+    background-size: cover;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #212121;
+}
+
+.island-section h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+.island-section .container {
+    height: auto !important;
+}
+
+.island-text {
+    max-width: 100%;
+    max-height: 24.5em;
+    font-size: 1.25em;
+    background-color: rgba(178, 235, 242, 0.7);
+    padding: 0.4em;
+    overflow: auto;
+}
+
+/*  ========================================
+                contact section
+    ========================================  */
+
+.contact-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: auto;
+    padding-top: 8.5em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+.heading-line {
+    position: relative;
+    margin-top: 0.4em;
+    margin-bottom: 1.25em;
+    text-align: center;
+    display: block;
+}
+
+h2.heading-line:before {
+    border-top: 2px solid #B2EBF2;
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 1px;
+    content: "";
+}
+
+h2.heading-line span {
+    position: relative;
+    z-index: 1;
+    padding: 0 1.25em;
+    background: #00BCD4;
+    display: inline-block;
+}
+
+.contact-text {
+    min-width: 100%;
+    height: 15em;
+    font-size: 1em;
+    text-align: center;
+    padding: 0.4em;
+}
+
+.contact-text address {
+    color: #B2EBF2;
+}
+
+.contact-text a {
+    text-decoration: none;
+    color: #B2EBF2;
+}
+
+.contact-text a:hover {
+    color: #fff;
+}
+
+#map {
+    min-width: 100%;
+    height: 20em;
+    color: #000;
+}
+
+.social_box {
+    padding: 0.5em;
+}
+
+.social_box img {
+    max-height: 4.48em;
+    max-width: 4.48em;
+}
+
+/*  ========================================
+                social section
+    ========================================  */
+
+.social-section {
+    height: auto !important;
+    min-height: 100%;
+    overflow: auto;
+    padding-top: 8.5em;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+.social-section h4 {
+    padding: 0.25em 0;
+}
+
+.facebook, .instagram, .twitter {
+    height: 35em;
+}
+
+.fb-page {
+    width: 100%;
+}
+
+.instagram {
+    background: #0097A7;
+}
+
+.instagram_title {
+    width: 100%;
+    margin: 0;
+}
+
+.instagram_title a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.instagram img {
+    max-height: 2.24em;
+    max-width: 2.24em;
+}
+
+.twitter-timeline {
+    background: #fff;
+}
+
+/*  ========================================
+                media query
+    ========================================  */
+
+@media (min-width: 768px) {
+
+    nav {
+        height: 8.5em;
+    }
+
+    #navbar {
+        float: right;
+        margin-top: 5em;
+    }
+
+    .container {
+        height: 8.5em;
+    }
+
+    .row.vertical-align {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .row.vertical-align > [class^="col-"],
+    .row.vertical-align > [class*=" col-"] {
+        display: flex;
+        align-items: stretch;
+        justify-content: center;
+    }
+
+    .small-box {
+        padding: 0;
+    }
+
+    .big-box {
+        padding: 0;
+    }
+
+    .big-text {
+        margin: 0;
+    }
+
+    .island-box {
+        padding: 0;
+    }
+
+    .picture img {
+        margin: 0;
+    }
+
+    .globus img {
+        height: 1.21em;
+    }
+
+    /*  ================================================================
+        filter generation thanks to https://codepen.io/sosuke/pen/Pjoqqp
+        ================================================================  */
+
+    /*
+        filter for color #B2EBF2
+    */
+    .globus img:hover {
+        filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(1409%) hue-rotate(147deg) brightness(97%) contrast(96%);
+        -webkit-filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(1409%) hue-rotate(147deg) brightness(97%) contrast(96%);
+    }
+
+    /*
+        filter for color #0097A7
+    */
+    .globus img:focus {
+        filter: brightness(0) saturate(100%) invert(46%) sepia(58%) saturate(7148%) hue-rotate(164deg) brightness(100%) contrast(101%);
+        -webkit-filter: brightness(0) saturate(100%) invert(46%) sepia(58%) saturate(7148%) hue-rotate(164deg) brightness(100%) contrast(101%);
+    }
+}
+
+@media (max-width: 767px) {
+
+    .navbar-nav .open .dropdown-menu {
+        background-color: #00BCD4;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #FFC107;
+        letter-spacing: 0.03em;
+        font-size: 1em;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        color: #B2EBF2;
+        background-color: transparent;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+        color: #0097A7;
+        background-color: #B2EBF2;
+    }
+
+    .globus img {
+        height: 1.21em;
+    }
+}
+
+@media (min-width: 992px) {
+    .logo h1 {
+        line-height: 1.7em;
+        font-size: 1.25em;
+        font-weight: 300;
+        margin: 0;
+        display: block;
+    }
+}

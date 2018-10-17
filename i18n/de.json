@@ -1,0 +1,43 @@
+{
+  "@metadata": {
+    "authors": [
+      "Bernard"
+    ],
+    "last-updated": "14.10.2018",
+    "locale": "de"
+  },
+  "title": "Appartements Blauer Anker",
+  "apartments": "Appartements ",
+  "small" : "Kleines Appartement",
+  "big": "Großes Appartement",
+  "contact": "Kontakt",
+  "gallery": "Gallerie",
+  "welcome_header": "Herzlich Willkommen",
+  "welcome_p1": "An der schmalsten Stelle der Insel Vir liegt das Haus Plavo Sidro (dt. Blauer Anker). Diese Lage bietet uns die Wahl zwischen zwei schönen Stränden.",
+  "welcome_p2": "Der östliche Strand, der nur cca hundert Meter von unserem Haus entfernt ist, beginnt direkt aus unserer Straße und bietet eine ideale Erfrischungsmöglichkeit an den zunehmend heißen Tagen auf der Insel. Der westliche Strand hingegen befindet sich in der Bucht Prezida. Hier finden sich viele Strandbars und Restaurants wo man sich eine kühle Erfrischung holen kann.",
+  "welcome_p3": "Vir bietet außerdem auch viele wilde und felsige Strände in unserer Nähe, wo Sie Ihre absolute Privatsphäre genießen können.",
+  "welcome_p4": "Außerdem kommt man zu Fuß auch auf die kleine Insel Školjić (rechts von der Brücke), welche einen göttlichen Sandstrand und Pinienbäume als Schattenspender bietet.",
+  "welcome_p5": "Nähere Informationen zu den Appartements und der Insel Vir finden Sie im Navigationsmenu.",
+  "apartments_intro": "Unsere Appartements sind nur 100 Meter vom Strand in östlicher und westlicher Richtung entfernt. Von der Terrasse haben Sie einen Blick aufs Meer. Parkmöglichkeiten gibt es vor dem Haus.",
+  "small_p1": "Das kleine Appartement bietet Platz für 2+2 Personen. Im Wohnzimmer befindet sich die Küche sowie ein ausziehbares Bett für zwei Personen.",
+  "small_p2": "Das kleine Appartement hat ein Schlafzimmer. WC und Dusche sind auch im Appartement. Alle Appartements sind klimatisiert.",
+  "open_pictures": "Ein Klick auf das Bild führt Sie zur Fotostrecke.",
+  "big_p1": "Das große Appartement bietet Platz für 4+2 Personen. Im Wohnzimmer befindet sich die Küche sowie ein ausziehbares Bett für zwei Personen.",
+  "big_p2": "Das große Appartement hat zwei Schlafzimmer. WC und Dusche sind auch im Appartement. Alle Appartements sind klimatisiert.",
+  "island": "Insel Vir",
+  "island_intro": "Insel mit zwei Gesichtern",
+  "island_p1": "Vir (italienisch Puntadura) ist eine der rund 300 Inseln des Zadar Archipels in der kroatischen Adria. Mit 22,38 km² Fläche, 10,12 km Länge und 4,25 km maximaler Breite ist sie die achtgrößte Insel des Archipels und die zwanzigstgrößte Insel Kroatiens. Eine ca. 300 Meter lange Brücke verbindet sie mit der dalmatinischen Küste.",
+  "island_p2": "Vir hat drei Ortschaften: das gleichnamige Vir, Torovi und Lozice. Die höchste Erhebung ist der 116 Meter hohe Barbinjak.",
+  "island_p3": "Die nächsten Inseln in der Umgebung von Vir sind Pag, Maun, Planik, Olib, Ist, Molat, Sestrunj, Rivanj und Ugljan.",
+  "island_p4": "Auf der Insel Vir, im Golf von Kozjak befinden sich Reste der alten Venezianische Festung aus dem 17. Jahrhundert.",
+  "island_p5": "Zentrum der Insel Vir ist die Ortschaft Vir. Im Zentrum finden sich unzählige Restaurants, ein Obst-, Gemüse- und Fischmarkt sowie der Busbahnhof und die Kirche St George, welcher auch der Beschützer von Vir ist. Vir bietet eine große Anzahl an Clubs und Souvenirläden mit Erinnerungen an Vir.",
+  "island_p6": "Das größte Interesse zieht die Festung Kaštelina auf sich. Gebaut wurde diese im 17. Jahrhundert von der Venezianischen Herrschaft. Der Leuchtturm von Vir befindet sich an der Südwestküste der Insel. Dieser wurde im Jahre 1881 gebaut und ist einer von 50 ähnlichen Leuchttürmen entlang der kroatischen Küste. Nach dem Weltkrieg wurde der Turm 1950 renoviert.",
+  "write_us": "Schreiben Sie uns",
+  "placeholder_name": "Vor- und Zuname",
+  "placeholder_mail": "e-mail",
+  "placeholder_subject": "Nachricht",
+  "zadar_region": "Mehr über die Zadar Region auf ",
+  "find_us": "Besuche uns auf ",
+  "follow_us": "Folge uns:",
+  "social_area": "Weitere Bilder finden Sie auf unseren Socialen Medien"
+}

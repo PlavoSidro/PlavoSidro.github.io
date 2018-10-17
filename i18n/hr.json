@@ -1,0 +1,43 @@
+{
+  "@metadata": {
+    "authors": [
+      "Bernard"
+    ],
+    "last-updated": "14.10.2018",
+    "locale": "hr"
+  },
+  "title": "Apartmani Plavo Sidro",
+  "apartments": "Apartmani ",
+  "small" : "Mali Apartman",
+  "big": "Veliki Apartman",
+  "contact": "Kontakt",
+  "gallery": "Galerija",
+  "welcome_header": "Dobro došli",
+  "welcome_p1": "Na samom početku i najužem dijelu otoka Vira smještena je kuća Plavo Sidro. Taj položaj nam pruža izbor dvaju plaža.",
+  "welcome_p2": "Istočna plaža koja je udaljeno samo stotinjak metara od kuće započinje direktno iz naše ulice, te pruža pravu priliku za osvježenje u vrelim danima koji se sve češče zapisuju na otoku Viru. Zapadna plaža je smještena u uvali Prezida, gdje se uz duž cijele plaže nalazi više kafića i restorana.",
+  "welcome_p3": "Uz te pripitomljene plaže u okolici, postoje i brojne divlje kamenite plaže, na kojima će te moći uživati u potpunoj privatnosti.",
+  "welcome_p4": "Pješice je moguće doći i do otočića Školjić (s desne strane mosta) na kojemu su božanske plaže prekrivene bijelim sitnim pijeskom, a poviše plaže je ugodna hladovina borovine.",
+  "welcome_p5": "Dodatne informacije o apartmanima i otoku Viru možete pronači klikom na gornji meni.",
+  "apartments_intro": "Naši apartmani se nalaze 100 metara od plaže u smjeru istoka i zapada. Sa terase imate pogled na more i plažu. Ispred Kuće imate mogućnost parkiranja vozila.",
+  "small_p1": "Mali apartman pruža smještaj za 2+2 osobe. U primaćoj sobi nalazi se ujedno kuhinja i dodatna mogućnost za spavanje.",
+  "small_p2": "U malom apartmanu nalazi se jedna spavaća soba. WC i tuš se nalaze isto tako u apartmanu. Svi apartmani su klimatizirani.",
+  "open_pictures": "Klikom na sliku otvorit će vam se dodatne slike.",
+  "big_p1": "Veliki apartman pruža smještaj za 4+2 osobe. U primaćoj sobi nalazi se ujedno kuhinja i dodatna mogućnost za spavanje.",
+  "big_p2": "U velikom apartmanu nalaze se dvije spavaće sobe. WC i tuš se nalaze isto tako u apartmanu. Svi apartmani su klimatizirani.",
+  "island": "Otok Vir",
+  "island_intro": "Otok s dva lica",
+  "island_p1": "Otok Vir (talijanski Puntadura) je otok u Hrvatskoj. Nalazi se u blizini grada Nina, a odvojen od kopna kod mjesta Privlaka plitkim gazom. Gaz je za vrijeme Austro-Ugarske prokopan kako bi mogli kroz njega prolaziti manji brodovi. Na tom najbližem položaju prema kopnu, sagradjen je most na 11 stupova u doba sedamdesetih godina 20. stoljeća.",
+  "island_p2": "Na otoku se nalaze tri veća naselja: Vir, Torovi i Lozice. Najviši vrh Vira je Barbinjak, 116 m n/m.",
+  "island_p3": "Na sjeveroistočnom pogledu s Vira proteže se otok Pag, a jugozapadni pogled gleda na Virsko more i otoke Ugljan, Sestrunj, Rivanj,  Molat i Ist.",
+  "island_p4": "Na otoku Viru, u zaljevu Kozjak nalaze se ostaci stare mletačke tvrdjave iz 17. stoljeća.",
+  "island_p5": "Centar otoka Vira je naselje Vir. Tamo možete pronaći bezbroj Restorana, tržnicu voća, povrća i ribe. Isto tako u centru se nalaze autobusni kolodvor, Crkva Sv. Jurja koji je i zaštitnik otoka. Kao što možete sjesti u jedan od brojnih klubova, tako ćete pronaći i nekoliko trgovina sa suvenirima i uspomenama sa Vira.",
+  "island_p6": "Bez dvojbe najveće mjesto interesa na Viru je kula Kaštelina. Sagradjena u 17 stoljeću od venezianske Vlasti. Svjetionik Vira se nalazi jugozapadno na Otoku. Sagradjen je 1881 godine i jedan je od 50 sličnih svjetionika na Hrvatskoj obali. Svjetionik je renoviran 1950 godine.",
+  "write_us": "Pišite nam",
+  "placeholder_name": "ime i prezime",
+  "placeholder_mail": "e-mail",
+  "placeholder_subject": "poruka",
+  "zadar_region": "Više o Zadarskoj regiji na ",
+  "find_us": "Nadjite nas na ",
+  "follow_us": "Pratite nas:",
+  "social_area": "Dodatne slike možete pronaći na našim stranicama"
+}

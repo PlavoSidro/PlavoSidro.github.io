@@ -75,7 +75,7 @@ a:focus {
     float: left;
     margin: 0;
     padding-left: 4.25em;
-    background: url("../img/plavosidro_logo.png") no-repeat left center !important;
+    background: url("../assets/img/plavosidro_logo.png") no-repeat left center !important;
     border: 0;
     background-size: 4.25em 4.25em !important;
     color: #FFC107;

@@ -50,6 +50,10 @@ a:focus {
     border-color: #B2EBF2;
 }
 
+.navbar-default .navbar-brand:focus {
+    color: #FFC107;
+}
+
 .navbar-header {
     height: 8.5em;
 }
@@ -369,10 +373,24 @@ h2.heading-line span {
     padding: 0.5em;
 }
 
-.social_box img {
-    max-height: 4.48em;
-    max-width: 4.48em;
+.social_box > p > a > i {
+    font-size: 150%;
+    color: #fff;
 }
+
+.social_box > p > a > i:hover {
+    color: #0097A7;
+}
+
+.social_box a {
+    text-decoration: none;
+}
+
+.social_box span {
+    padding-bottom: 0.5em;
+}
+
+
 
 /*  ========================================
                 social section
@@ -391,6 +409,11 @@ h2.heading-line span {
 
 .social-section h4 {
     padding: 0.25em 0;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 0.7em;
 }
 
 .facebook, .instagram, .twitter {

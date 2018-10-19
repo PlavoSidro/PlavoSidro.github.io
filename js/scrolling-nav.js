@@ -17,3 +17,11 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$('.navbar-nav>li.page-scroll>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
+
+$('.navbar-nav>li>ul>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});

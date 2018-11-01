@@ -417,34 +417,27 @@ hr {
 }
 
 .facebook, .instagram, .twitter {
-    height: 35em;
+    height: 35em !important;
 }
 
 .fb-page {
     width: 100%;
 }
 
-.instagram {
-    background: #0097A7;
-}
+/* Instagram widget height manipulation */
 
-.instagram_title {
-    width: 100%;
-    margin: 0;
-}
-
-.instagram_title a {
-    text-decoration: none;
-    color: #fff;
-}
-
-.instagram img {
-    max-height: 2.24em;
-    max-width: 2.24em;
+#e6f3661128539bbf071072bb572e0fc3cb427852623371f71a6d8f95d77d07bb {
+    height: 35em !important;
 }
 
 .twitter-timeline {
     background: #fff;
+}
+
+/* Twitter widget height manipulation */
+
+#twitter-widget-0 {
+    height: 35em !important;
 }
 
 /*  ========================================

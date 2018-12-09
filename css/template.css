@@ -79,7 +79,7 @@ a:focus {
     float: left;
     margin: 0;
     padding-left: 4.25em;
-    background: url("../assets/img/plavosidro_logo.png") no-repeat left center !important;
+    background: url("../assets/logo.png") no-repeat left center !important;
     border: 0;
     background-size: 4.25em 4.25em !important;
     color: #FFC107;
@@ -161,7 +161,7 @@ a:focus {
     min-height: 100%;
     overflow: hidden; /* hidden scrollbar in firefox */
     padding-top: 8.5em;
-    background: url("../backgrounds/sunset.JPG") no-repeat center;
+    background: url("../assets/backgrounds/sunset.JPG") no-repeat center;
     background-size: cover;
     text-align: center;
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
@@ -207,7 +207,7 @@ a:focus {
     min-height: 100%;
     overflow: hidden;
     padding-top: 8.5em;
-    background: url("../backgrounds/horizon.jpg") no-repeat center;
+    background: url("../assets/backgrounds/horizon.jpg") no-repeat center;
     background-size: cover;
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
     font-weight: 300;
@@ -241,7 +241,7 @@ a:focus {
     min-height: 100%;
     overflow: hidden;
     padding-top: 8.5em;
-    background: url("../backgrounds/horizon.jpg") no-repeat center;
+    background: url("../assets/backgrounds/horizon.jpg") no-repeat center;
     background-size: cover;
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
     font-weight: 300;
@@ -275,7 +275,7 @@ a:focus {
     min-height: 100%;
     overflow: hidden;
     padding-top: 8.5em;
-    background: url("../backgrounds/otokvirbackgroundbnw2blur.jpg") no-repeat center;
+    background: url("../assets/backgrounds/otokvirbackgroundbnw2blur.jpg") no-repeat center;
     background-size: cover;
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
     font-weight: 300;
@@ -421,13 +421,14 @@ hr {
 }
 
 .fb-page {
-    width: 100%;
+    max-width: 100%;
 }
 
 /* Instagram widget height manipulation */
 
 #e6f3661128539bbf071072bb572e0fc3cb427852623371f71a6d8f95d77d07bb {
     height: 35em !important;
+    max-width: 100%;
 }
 
 .twitter-timeline {
@@ -490,30 +491,6 @@ hr {
     .picture img {
         margin: 0;
     }
-
-    .globus img {
-        height: 1.21em;
-    }
-
-    /*  ================================================================
-        filter generation thanks to https://codepen.io/sosuke/pen/Pjoqqp
-        ================================================================  */
-
-    /*
-        filter for color #B2EBF2
-    */
-    .globus img:hover {
-        filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(1409%) hue-rotate(147deg) brightness(97%) contrast(96%);
-        -webkit-filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(1409%) hue-rotate(147deg) brightness(97%) contrast(96%);
-    }
-
-    /*
-        filter for color #0097A7
-    */
-    .globus img:focus {
-        filter: brightness(0) saturate(100%) invert(46%) sepia(58%) saturate(7148%) hue-rotate(164deg) brightness(100%) contrast(101%);
-        -webkit-filter: brightness(0) saturate(100%) invert(46%) sepia(58%) saturate(7148%) hue-rotate(164deg) brightness(100%) contrast(101%);
-    }
 }
 
 @media (max-width: 767px) {
@@ -536,10 +513,6 @@ hr {
     .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
         color: #0097A7;
         background-color: #B2EBF2;
-    }
-
-    .globus img {
-        height: 1.21em;
     }
 }
 

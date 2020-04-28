@@ -8,4 +8,4 @@ Check out on Google Maps: https://goo.gl/RZa4oz
 
 Site in progress https://plavosidro.github.io
 
-© Plavo Sidro
+© Apartmani Plavo Sidro

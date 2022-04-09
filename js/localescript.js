@@ -7,7 +7,7 @@ $(document).ready(function(){
 
         var lang = $(this).data('locale');
         console.log(lang)
-        //$('html').attr('lang', lang);
+        $('html').attr('lang', lang);
         $.i18n().locale = lang;
         $('body').i18n();
     })

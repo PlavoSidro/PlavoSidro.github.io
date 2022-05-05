@@ -13,6 +13,10 @@ $(document).ready(function(){
     })
 });
 
+$.i18n( {
+    locale: 'hr'
+} );
+
 $.i18n().load({
     "hr": "./i18n/hr.json",
     "en": "./i18n/en.json",

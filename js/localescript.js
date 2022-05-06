@@ -1,7 +1,8 @@
 $(document).ready(function(){
 
     //za parsanje html i18n attributa
-    $('body').i18n();
+//    $.i18n().locale = 'hr';
+//    $('body').i18n();
 
     $('.switch-locale').on('click', function(){
 
@@ -12,10 +13,6 @@ $(document).ready(function(){
         $('body').i18n();
     })
 });
-
-$.i18n( {
-    locale: 'hr'
-} );
 
 $.i18n().load({
     "hr": "./i18n/hr.json",
